@@ -811,7 +811,11 @@ section {
 
 .services .row p{
   font-size: 22px;
-  color:white;
+    text-align: center;
+    margin-top: 140px;
+    letter-spacing: 2px;
+    color: white;
+    font-weight: 200;
 }
 .services .icon-box .icon i {
   font-size: 56px;
